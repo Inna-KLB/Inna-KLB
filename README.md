@@ -15,7 +15,7 @@
   - Бэм-именование в проекте
   - Bootstrap 
   - Адаптивная, семантическая и кроссбраузерная верстка
- 📫 Связаться со мной - @https://t.me/Inna_KLB
+- 📫 Связаться со мной - @https://t.me/Inna_KLB
 
 <!---
 Inna-KLB/Inna-KLB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
